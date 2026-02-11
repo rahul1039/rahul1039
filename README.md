@@ -1,8 +1,11 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I’m Rahul</h1>
+<h1 align="center">Hi , I’m Rahul</h1>
 <h3 align="center">Computer Science Student | Aspiring AI/ML Engineer | Problem Solver</h3>
 
-🔭 Currently Working On<br>	•	Data Structures & Algorithms for strong problem-solving foundations<br>	•	AI/ML projects with real-world applications<br>	•	Writing clean, efficient, and scalable code<br><br>👯 Looking to Collaborate On<br>	•	AI/ML and data-driven projects<br>	•	Open-source contributions<br>	•	Coding challenges and algorithmic problem-solving<br><br>🤝 Looking for Help With<br>	•	Optimizing algorithms and improving performance<br>	•	Applying Machine Learning concepts in real-world scenarios<br>	•	System design and coding best practices<br><br>🌱 Currently Learning<br>	•	Machine Learning & Deep Learning<br>	•	SQL, Probability & Statistics<br>	•	Core Computer Science fundamentals<br><br>💬 Ask Me About<br>	•	Data Structures & Algorithms<br>	•	Java & Python<br>	•	Getting started with AI/ML<br><br>⚡ Fun Fact<br>	•	I love simplifying complex problems into clean logic—and I don’t stop until it makes sense 🚀
+	• Working on DSA & AI/ML projects
+	• Learning Machine Learning, SQL & Statistics
+	• Ask me about Java, Python & problem solving
+	• I love simplifying complex logic
 
 
 ## 🌐 Socials:
