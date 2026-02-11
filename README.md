@@ -2,10 +2,10 @@
 <h1 align="center">Hi , I’m Rahul</h1>
 <h3 align="center">Computer Science Student | Aspiring AI/ML Engineer | Problem Solver</h3>
 
-• Working on DSA & AI/ML projects
-• Learning Machine Learning, SQL & Statistics
-• Ask me about Java, Python & problem solving
-• I love simplifying complex logic
+ • Working on DSA & AI/ML projects
+ • Learning Machine Learning, SQL & Statistics
+ • Ask me about Java, Python & problem solving
+ • I love simplifying complex logic
 
 
 ## 🌐 Socials:
