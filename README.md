@@ -1,6 +1,7 @@
 # 💫 About Me:
 <h1 align="center">Hi , I’m Rahul</h1>
 <h3 align="center">Computer Science Student | Aspiring AI/ML Engineer | Problem Solver</h3>
+
 - Working on DSA & AI/ML projects
 
 - Learning Machine Learning, SQL & Statistics
