@@ -3,7 +3,7 @@ AI/ML Engineer | Python | Machine Learning | Generative AI | RAG Systems
 
 B.Tech CSE (AIML) student passionate about building practical AI-powered applications, intelligent retrieval systems, and data-driven solutions.
 
-Building with Python, FAISS, LangChain, LLMs and Machine Learning.
+Building AI-powered applications, RAG pipelines, semantic retrieval systems and practical machine learning solutions.
 
 
 ## 🌐 Socials:
