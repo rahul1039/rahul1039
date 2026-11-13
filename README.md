@@ -1,14 +1,9 @@
 # 💫 About Me:
-<h1 align="center">Hi , I’m Rahul</h1>
-<h3 align="center">Computer Science Student | Aspiring AI/ML Engineer | Problem Solver</h3>
+AI/ML Engineer | Python | Machine Learning | Generative AI | RAG Systems
 
-- Working on DSA & AI/ML projects
+B.Tech CSE (AIML) student passionate about building practical AI-powered applications, intelligent retrieval systems, and data-driven solutions.
 
-- Learning Machine Learning, SQL & Statistics
-
-- Ask me about Java, Python & problem solving
-
-- I love simplifying complex logic
+Building with Python, FAISS, LangChain, LLMs and Machine Learning.
 
 
 ## 🌐 Socials:
